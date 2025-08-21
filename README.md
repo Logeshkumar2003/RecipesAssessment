@@ -30,3 +30,16 @@ cd recipe-frontend
 
 
 npm install
+
+
+frontend/
+│── src/
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   ├── RecipeTable.js   # Main component with filters, cards, animations
+│   └── ...
+│── package.json
+│── README.md
+
+
